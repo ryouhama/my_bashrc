@@ -8,7 +8,7 @@
 #--------------------#
 
 # alias list
-alias ll='ls -altr'
+alias ll='ls -Alrtv'
 alias cdp='cd /Applications/python/'
 alias cdmy='cd /Applications/MyApp/'
 alias c='clear'
