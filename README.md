@@ -5,5 +5,5 @@ bashrc for my mac
 2020/06/15 create this
 
 # use case
-cat ~/.bashrc >> _bashrc
+cat _bashrc >> ~/.bashrc
 
